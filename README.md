@@ -4,7 +4,7 @@ A simple and responsive CV website built using HTML and CSS.
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the site]()
+👉 [Click here to view the site](https://simple-cv-website-without-profile-picture-git-main-mr-ykd.vercel.app)
 
 ## 📂 Features
 
